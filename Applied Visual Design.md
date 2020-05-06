@@ -5,25 +5,26 @@
 ### Psuedo Selectors
 
 ## Psuedo Class Selector
->a:hover{
-  color: red;
+>a:hover{  
+  color: red;  
 }
+
 Color of tag becomes red when hovered over
 
 ## Psuedo Element Selector
->.element::before{
-  content: "";
-  color: red;
+>.element::before{  
+  content: "";  
+  color: red;  
 }
 
->.element::after{
-  content: "";
-  color: red;
+>.element::after{  
+  content: "";  
+  color: red;  
 }
 
-must have a content property
-content used to add photos or text to the selected element
-can be an empty string
+must have a content property  
+content used to add photos or text to the selected element  
+can be an empty string  
 
 ## Color
 rgba(255, 255, 255, 0.1)  
@@ -120,6 +121,8 @@ background: url()
       background-color: yellow;  
     }  
   }  
+
+a template for creating a simple animation^
 
 > animation-fill-mode: forwards;
 
