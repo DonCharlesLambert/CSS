@@ -6,20 +6,20 @@
 
 ## Psuedo Class Selector
 >a:hover{  
-  color: red;  
+    color: red;  
 }
 
 Color of tag becomes red when hovered over
 
 ## Psuedo Element Selector
 >.element::before{  
-  content: "";  
-  color: red;  
+    content: "";  
+    color: red;  
 }
 
 >.element::after{  
-  content: "";  
-  color: red;  
+    content: "";  
+    color: red;  
 }
 
 must have a content property  
@@ -41,11 +41,11 @@ linear-gradient()
 repeating-linear-gradient()
 * e.g 
 repeating-linear-gradient(  
-      		90deg,  
-      		yellow 0px,  
-      		blue 40px,  
-      		green 40px,  
-      		red 80px  
+      		  90deg,  
+      		  yellow 0px,  
+      		  blue 40px,  
+      		  green 40px,  
+      		  red 80px  
     	    );  
 	starts at 0px on yellow, blends in blue at 40px, straight into green at 40px ect
 
@@ -106,19 +106,19 @@ background: url()
 
 ## Animation
 >#rect {  
-    animation-name: rainbow;  
-    animation-duration: 4s;  
+      animation-name: rainbow;  
+      animation-duration: 4s;  
   }  
   
 >@keyframes rainbow{  
     0%{  
-      background-color: blue;  
+        background-color: blue;  
     }  
     50%{  
-      background-color: green;  
+        background-color: green;  
     }  
     100%{  
-      background-color: yellow;  
+        background-color: yellow;  
     }  
   }  
 
@@ -136,10 +136,10 @@ yes! can also be any positive integer ofc
 
 determines how quickly the element moves through key frames
 options:
-* ease		<-- start slow, speed up, end slow
-* ease-in		<-- starts slow, ends fast
-* ease-out	<-- starts fast, slows down
-* linear		<-- constant 
+* ease     <-- start slow, speed up, end slow
+* ease-in  <-- starts slow, ends fast
+* ease-out <-- starts fast, slows down
+* linear   <-- constant 
 * cubic-bezier(0.25, 0.25, 0.75, 0.75);
 	* p1x, p1y, p2x, p2y
 	* y value is progress in animation
