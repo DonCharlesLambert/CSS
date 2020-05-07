@@ -1,0 +1,25 @@
+.deidara{
+	width: 28px;
+	height: 69px;
+}
+
+.stance{
+	animation-name: stance;
+	animation-duration: 0.4s;
+	animation-iteration-count: infinite;
+}
+
+@keyframes stance{
+	0%{
+		content: url('deidara/0.png');
+	}
+	33%{
+		content: url('deidara/1.png');
+	}
+	67%{
+		content: url('deidara/2.png');
+	}
+	100%{
+		content: url('deidara/3.png');
+	}
+}
