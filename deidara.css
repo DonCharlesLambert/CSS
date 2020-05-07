@@ -1,11 +1,12 @@
-.deidara{
-	width: 28px;
-	height: 69px;
-}
-
 .stance{
 	animation-name: stance;
 	animation-duration: 0.4s;
+	animation-iteration-count: infinite;
+}
+
+.run{
+	animation-name: run;
+	animation-duration:0.6s;
 	animation-iteration-count: infinite;
 }
 
@@ -21,5 +22,26 @@
 	}
 	100%{
 		content: url('deidara/3.png');
+	}
+}
+
+@keyframes run{
+	0%{
+		content: url('deidara/4.png');
+	}
+	20%{
+		content: url('deidara/5.png');
+	}
+	40%{
+		content: url('deidara/6.png');
+	}
+	60%{
+		content: url('deidara/7.png');
+	}
+	80%{
+		content: url('deidara/8.png');
+	}
+	100%{
+		content: url('deidara/9.png');
 	}
 }
