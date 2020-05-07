@@ -1,0 +1,36 @@
+.head{
+	width: 20%;
+	padding-top: 20%;
+	position: absolute;
+	top: 35%;
+	right: 40%;
+	border-radius: 50%;
+	border-color: black;
+	border-width: 10px;
+	background-color: yellow;
+	border-style: solid;
+}
+
+.mouth{
+	width: 60%;
+	padding-top: 35%;
+	border-radius: 0% 0% 50% 50%;
+	background-color: white;
+	position: absolute;
+	left: 20%;
+	bottom: 10%;
+}
+
+.eye{
+	position: absolute;
+	width: 20%;
+	padding-top: 20%;
+	background-color: black;
+	border-radius: 50%;
+	bottom: 60%;
+	left: 20%;
+}
+
+.eye-right{
+	left: 60%;
+}
