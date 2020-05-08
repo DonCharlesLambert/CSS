@@ -1,3 +1,9 @@
+
+.deidara{
+	width: auto;
+	margin: auto;
+}
+
 .stance{
 	animation-name: stance;
 	animation-duration: 0.4s;
