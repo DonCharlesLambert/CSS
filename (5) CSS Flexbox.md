@@ -19,14 +19,14 @@ justify-content: center;
 a flex container has a main axis  
 for flex-direction: row this is a horizontal line through the container and for flex-direction: column it is a vertical line
 * center
-** aligns content on the center of the axis
+	* aligns content on the center of the axis
 * flex-start (default)
-** aligns content at the start of the axis
+	* aligns content at the start of the axis
 * flex-end
 * space-between
-** first item is at the start of the axis, last item is at the end, other items spaced out inbetween
+	* first item is at the start of the axis, last item is at the end, other items spaced out inbetween
 * space-around
-** similar to space-between but first and last items are not locked at start/end
+	* similar to space-between but first and last items are not locked at start/end
 * space-evenly
 
 ### Align-Items
@@ -36,15 +36,15 @@ a flex container has a cross axis, perpendicular to the main axis
 * flex-end
 * center
 * stretch (default)
-** Items are stretched to fill the container
+	* Items are stretched to fill the container
 * baseline
-** For text, the line that letters sit on
+	* For text, the line that letters sit on
 
 ### Flex-Wrap
 flex-wrap: wrap;  
 items that are bigger than the flex container move to a new row or colum  
 * nowrap (default)
-** does not wrap items
+	* does not wrap items
 * wrap
 * wrap reverse
 
@@ -62,11 +62,11 @@ flex-basis: 10em;
 the initial size of the item before flex-shrink and flex-grow are applied
 
 ### Flex
-flex: 1 0 10px;
+flex: 1 0 10px;  
 Gives access to flex-grow, flex-shrink and flex-basis in that order
 
 ### Order
-order: 2;
+order: 2;  
 defines the order in which the items in the flex-box appear 
 
 ### Align-Self

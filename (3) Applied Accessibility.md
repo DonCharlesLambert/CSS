@@ -33,15 +33,15 @@ e.g accesskey="g"
 * section
 
 * figure
-** figcaption
+	* figcaption
 
 * audio
-** source
+	* source
 
 * fieldset
-** legend
+	* legend  
 holds a set of inputs (usually for radio buttons) legend is the caption/title
 fieldset creates a cool box that cuts at legend
 
-* sup
+* sup  
 superscript
