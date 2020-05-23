@@ -1,13 +1,27 @@
-# CSS
-This repository contains my notes for learning CSS. Web sites I have created using these notes can be found in my other repositories.
+# Web Design
+This repo contains
+* Notes on Web Design including styling and front end visualisation libraries
+* Simple CSS3 animations and CSS art
+* Certificates of course completion
 
-## Deidara
-A running animation created using a few sprite sheets. Same sprites/character featured in my [Life is Good repository](https://github.com/DonCharlesLambert/Life-Is-Good) .
-> _Fine art is the beauty of that single fleeting moment of explosion._
+## Related Repositories
+### LonelyGram
+The [LonelyGram](https://github.com/DonCharlesLambert/LonelyGram) application is a basic social media application that uses multiple RESTful APIs to fetch user and data data before rendering them using React.
+<div align="center">
+	<img src="https://github.com/DonCharlesLambert/LonelyGram/blob/master/screenshots/ss3.jpeg?raw=true" alt="LonelyGram in mobile" width="40%"/>
+</div>
 
-## Heart
-CSS art created using psuedo before and after elements.
+### Web Pages
+The [Web pages](https://github.com/DonCharlesLambert/Webpages) repository contains a list of some practise web pages designed with the help of the notes in this repo.<br/>
+<div align="center">
+	<img width="90%" id="img" src="https://github.com/DonCharlesLambert/Webpages/blob/master/Screenshots/Bible.PNG?raw=true"/>
+</div>
 
+### React Piano
+[React Piano](https://github.com/DonCharlesLambert/React-Piano) is another short React project, with the majority of the project completed in a few hours.
+<div align="center">
+<img src="https://github.com/DonCharlesLambert/React-Piano/blob/master/src/screenshots/ss.jpeg?raw=true" alt="The React Piano application running on an iPhone 8"/>
+</div>
 
-## Smile
-A CSS emoji drawing 
+### Keep It Goin'
+A space for me to play with Django.
