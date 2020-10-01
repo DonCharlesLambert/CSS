@@ -1,14 +1,14 @@
-# Web Design
+# Web Designing 
 This repo contains
 * Notes on Web Design including styling and front end visualisation libraries
-* Simple CSS3 animations and CSS art
+* Simple CSS3 animations and CSS 
 * Certificates of course completion
 
 ## Related Repositories
 ### LonelyGram
 The [LonelyGram](https://github.com/DonCharlesLambert/LonelyGram) application is a basic social media application that uses multiple RESTful APIs to fetch user and data data before rendering them using React.
 <div align="center">
-	<img src="https://github.com/DonCharlesLambert/LonelyGram/blob/master/screenshots/ss3.jpeg?raw=true" alt="LonelyGram in mobile" width="40%"/>
+	<img src="https://github.com/DonCharlesLambert/LonelyGram/blob/master/screenshots/ss3.jpeg?raw=true" alt="LonelyGram in " width="40%"/>
 </div>
 
 ### Web Pages
@@ -18,7 +18,7 @@ The [Web pages](https://github.com/DonCharlesLambert/Webpages) repository contai
 </div>
 
 ### React Piano
-[React Piano](https://github.com/DonCharlesLambert/React-Piano) is another short React project, with the majority of the project completed in a few hours.
+[React Piano](https://github.com/DonCharlesLambert/React-Piano) An another short React project, with the majority of the project completed in a few hours only.
 <div align="center">
 <img src="https://github.com/DonCharlesLambert/React-Piano/blob/master/src/screenshots/ss.jpeg?raw=true" alt="The React Piano application running on an iPhone 8"/>
 </div>
